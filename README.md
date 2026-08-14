@@ -82,7 +82,6 @@ A Smart Irrigation System built using **ESP32** and **Blynk IoT** that monitors 
 ## 👨‍💻 Made By : 
 
 **Prince Patel**
-
 **Yash Suba**  
 **Aastha Thakkar**  
 **Palak Patel**  
